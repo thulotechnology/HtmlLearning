@@ -1,0 +1,3 @@
+git init - Initialize the project
+git add . - To add it to stagging area 
+git commit -m "Short Message" - To commit change
