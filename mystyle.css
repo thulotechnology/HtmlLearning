@@ -1,0 +1,23 @@
+#header{
+    background-color: #3700B3;
+    color: #ffffff;
+    padding: 10px; 
+    font-family: cursive;
+    border-radius: 10px; 
+    text-align: center;
+}
+
+.num1, .num2{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+
+#btn{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: #3700B3;
+    color: #ffffff;
+}
